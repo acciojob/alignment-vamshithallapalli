@@ -1,7 +1,7 @@
 /* Apply table styling to all tables with class 'middle' */
 .middle {
   border: 1px solid black;   
-  height: 600px;
+  height: 200px;
   width: 80%; 
   margin: 0 auto;
 }
